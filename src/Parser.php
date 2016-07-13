@@ -21,7 +21,7 @@ namespace LayerShifter\Gumbo;
 /**
  * This is a stub file of gumbo-php extension for various PHP IDEs.
  */
-class Document
+class Parser
 {
 
     /**
