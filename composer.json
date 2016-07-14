@@ -1,6 +1,6 @@
 {
   "name": "layershifter/gumbo-php-stubs",
-  "description": "Stubs for PHP IDEs (PHP connector).",
+  "description": "IDE Stubs for Gumbo PHP (PHP connector).",
   "keywords": [
     "gumbo",
     "connector",
